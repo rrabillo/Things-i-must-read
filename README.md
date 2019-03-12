@@ -13,3 +13,6 @@ Just articles and stuff i should read
  
  ## Books to buy
  - https://www.amazon.fr/Mathematics-Computer-Graphics-John-Vince/dp/1447162897
+ 
+ ## Maths (for dev purpose)
+ - https://www.stairwaylearning.com/
