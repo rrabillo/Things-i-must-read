@@ -7,7 +7,6 @@ Just articles and stuff i should read
  - https://css-tricks.com/debouncing-throttling-explained-examples/
  - https://css-tricks.com/creating-your-own-gravity-and-space-simulator/
  - https://codepen.io/samuellr/pen/aQQajE
- - http://chortle.ccsu.edu/vectorlessons/vectorindex.html
  - https://medium.com/openmindonline/js-monday-04-the-joy-of-using-async-await-f029ffad696a
  
  
@@ -16,3 +15,4 @@ Just articles and stuff i should read
  
  ## Maths (for dev purpose)
  - https://www.stairwaylearning.com/
+ - http://chortle.ccsu.edu/vectorlessons/vectorindex.html
