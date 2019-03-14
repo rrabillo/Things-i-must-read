@@ -16,3 +16,6 @@ Just articles and stuff i should read
  ## Maths (for dev purpose)
  - https://www.stairwaylearning.com/
  - http://chortle.ccsu.edu/vectorlessons/vectorindex.html
+
+## Design (not my job, but can be usefull)
+- https://www.canva.com/learn/100-color-combinations/
