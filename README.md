@@ -19,3 +19,6 @@ Just articles and stuff i should read
 
 ## Design (not my job, but can be usefull)
 - https://www.canva.com/learn/100-color-combinations/
+
+## HTML/CSS
+- https://css-tricks.com/an-introduction-to-web-components/?fbclid=IwAR1mETkOW-4B-U3KyLn0FiWq-wNR-nMK1FLwrMnS-LEdtkTVRUXQrs77fvo
