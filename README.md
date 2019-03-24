@@ -1,6 +1,6 @@
 
-# Things-i-must-read
-Just articles and stuff i should read
+# Things-i-must-read-or
+Just articles and stuff i should read or keep in mind
 
 ## Javascript
 
