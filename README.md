@@ -23,3 +23,7 @@ Just articles and stuff i should read
 
 ## HTML/CSS
 - https://css-tricks.com/an-introduction-to-web-components/?fbclid=IwAR1mETkOW-4B-U3KyLn0FiWq-wNR-nMK1FLwrMnS-LEdtkTVRUXQrs77fvo
+
+
+## Linux stuff
+- https://askubuntu.com/questions/19898/whats-the-simplest-way-to-edit-and-add-files-to-var-www
