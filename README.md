@@ -18,7 +18,7 @@ Just articles and stuff i should read or keep in mind
  - http://chortle.ccsu.edu/vectorlessons/vectorindex.html
  - http://blog.moagrius.com/actionscript/jsas-understanding-easing/?fbclid=IwAR31gL3apYz5wYa0qp5bMKbAKO4CjhdOJE0bnfb3qfNS0jAvNpDW7EDejeg
 
-## Design (not my job, but can be usefull)
+## Design 
 - https://www.canva.com/learn/100-color-combinations/
 
 ## HTML/CSS
