@@ -28,3 +28,7 @@ Just articles and stuff i should read or keep in mind
 ## Linux/server stuff
 - https://askubuntu.com/questions/19898/whats-the-simplest-way-to-edit-and-add-files-to-var-www
 - https://support.rackspace.com/how-to/set-up-apache-virtual-hosts-on-ubuntu/
+
+## Monitoring
+- https://tympanus.net/codrops/
+- https://codyhouse.co/library
