@@ -23,6 +23,7 @@ Just articles and stuff i should read or keep in mind
 
 ## HTML/CSS
 - https://css-tricks.com/an-introduction-to-web-components/?fbclid=IwAR1mETkOW-4B-U3KyLn0FiWq-wNR-nMK1FLwrMnS-LEdtkTVRUXQrs77fvo
+- https://www.smashingmagazine.com/2019/05/svg-design-tools-practical-guide/?fbclid=IwAR1QGiwO5kbckUimWDGDBJfIKYHH_X753Kf5ZqxJETHLWWUJ113zvfZC5lw
 
 
 ## Linux/server stuff
